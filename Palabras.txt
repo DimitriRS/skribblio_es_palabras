@@ -4088,3 +4088,6 @@ dulces
 hechizo
 toldo luz nocturna
 bombon
+spiderman
+porky
+catarata
