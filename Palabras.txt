@@ -4110,3 +4110,6 @@ mueble
 flaco
 palma
 pez linterna
+rieles de tren
+carton
+salchicha empanizada
